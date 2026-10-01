@@ -6,6 +6,7 @@
 
 ## 📱 Инструкции к приложениям
 
+- [Happ, INCY, v2RayTun, Karing или Hiddify: какое приложение выбрать](sravnenie-prilozhenij.md)
 - [INCY: как скачать и добавить подписку на iPhone, Android и компьютер](incy.md)
 - [Happ VPN: как подключить подписку или ключ — пошагово](happ.md)
 - [v2RayTun: как добавить подписку и ключ на iPhone и Android](v2raytun.md)
@@ -14,6 +15,7 @@
 - [v2rayNG: как добавить подписку и ключ на Android](v2rayng.md)
 - [NekoBox: как добавить подписку на Android и компьютере](nekobox.md)
 - [Streisand на iPhone: как добавить подписку VPN](streisand.md)
+- [Как скачать VPN-приложение на iPhone и сменить регион App Store](kak-skachat-vpn-iphone.md)
 
 ## 🛠 Если VPN не работает
 
@@ -21,6 +23,9 @@
 - [Не работает VPN на iPhone: что делать](ne-rabotaet-vpn-iphone.md)
 - [VPN не подключается: пошаговая проверка](vpn-ne-podklyuchaetsya.md)
 - [VPN не работает на мобильном интернете: белые списки](vpn-mobilnyj-internet.md)
+- [Ошибки VPN: что значат и как исправить](oshibki-vpn.md)
+- [VPN сам отключается: почему и как исправить](vpn-otklyuchaetsya.md)
+- [VPN медленно работает: как ускорить](vpn-medlenno-rabotaet.md)
 - [Как проверить, работает ли VPN](kak-proverit-vpn.md)
 - [Раздельное туннелирование: банки и российские сайты без VPN](razdelnoe-tunnelirovanie.md)
 
@@ -49,6 +54,7 @@
 - [Можно ли пользоваться VPN в России](zakonno-li-vpn.md)
 - [VPN для работы: удалённо и в командировках](vpn-dlya-raboty.md)
 - [VPN в Telegram-боте: как работает](vpn-v-telegram-bote.md)
+- [Как отменить подписку VPN и отключить автопродление](kak-otmenit-podpisku-vpn.md)
 
 ## Как помочь
 
