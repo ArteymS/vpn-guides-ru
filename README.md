@@ -28,6 +28,8 @@
 - [VPN медленно работает: как ускорить](vpn-medlenno-rabotaet.md)
 - [Как проверить, работает ли VPN](kak-proverit-vpn.md)
 - [Раздельное туннелирование: банки и российские сайты без VPN](razdelnoe-tunnelirovanie.md)
+- [Сбербанк и другие банки с VPN: что делать](bank-i-vpn.md)
+- [Расходует ли VPN трафик и батарею](vpn-trafik-batareya.md)
 
 ## 💻 По устройствам
 
@@ -36,11 +38,15 @@
 - [VPN для компьютера: Windows и Mac](vpn-kompyuter.md)
 - [VPN на ноутбук: как установить и настроить](vpn-noutbuk.md)
 - [VPN на телевизор с Android TV](vpn-televizor.md)
+- [VPN для Windows 11 и 10: установка на ПК](vpn-windows-11.md)
+- [VPN для Mac: как установить на macOS и MacBook](vpn-mac.md)
 - [VPN на несколько устройств: одна подписка для всех](vpn-neskolko-ustrojstv.md)
 
 ## 📖 Простыми словами
 
 - [Что такое VPN и как он работает](chto-takoe-vpn.md)
+- [Как работает VPN — простыми словами](kak-rabotaet-vpn.md)
+- [Как узнать свой IP-адрес — и что он о вас говорит](moj-ip-adres.md)
 - [Что такое VLESS: ключ и подписка простыми словами](vless.md)
 - [VLESS Reality простыми словами](vless-reality.md)
 - [Что такое подписка VPN и как добавить её в приложение](podpiska-vpn.md)
