@@ -61,6 +61,7 @@
 - [VPN для работы: удалённо и в командировках](vpn-dlya-raboty.md)
 - [VPN в Telegram-боте: как работает](vpn-v-telegram-bote.md)
 - [Как отменить подписку VPN и отключить автопродление](kak-otmenit-podpisku-vpn.md)
+- [Как подарить VPN родителям или другу](podarit-vpn.md)
 
 ## Как помочь
 
