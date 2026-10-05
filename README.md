@@ -25,6 +25,9 @@
 - [FoXray: как добавить подписку VPN на iPhone и Mac](foxray.md)
 - [V2Box: настройка VPN на iPhone, Android и Mac](v2box.md)
 - [Shadowrocket: как добавить подписку VLESS на iPhone](shadowrocket.md)
+- [v2rayN для Windows: как добавить подписку](v2rayn.md)
+- [Happ для Windows и Mac: установка и настройка](happ-na-kompyutere.md)
+- [NekoRay, sing-box и Clash Verge: подойдут ли для подписки VLESS](nekoray-sing-box-clash.md)
 - [Как скачать VPN-приложение на iPhone и сменить регион App Store](kak-skachat-vpn-iphone.md)
 - [Amnezia VPN: что это и чем отличается от подписки VLESS](amnezia-vpn.md)
 - [Outline VPN: что это и как работают ключи](outline-vpn.md)
@@ -38,6 +41,12 @@
 - [Ошибки VPN: что значат и как исправить](oshibki-vpn.md)
 - [VPN сам отключается: почему и как исправить](vpn-otklyuchaetsya.md)
 - [VPN медленно работает: как ускорить](vpn-medlenno-rabotaet.md)
+- [Happ не работает: что делать](happ-ne-rabotaet.md)
+- [INCY не работает: что делать](incy-ne-rabotaet.md)
+- [v2RayTun не работает: что делать](v2raytun-ne-rabotaet.md)
+- [Hiddify не работает: что делать](hiddify-ne-podklyuchaetsya.md)
+- [Подписка VPN не обновляется: что делать](podpiska-ne-obnovlyaetsya.md)
+- [VPN не работает на МТС, Билайн, МегаФон, Tele2, Yota](vpn-ne-rabotaet-u-operatora.md)
 - [Как проверить, работает ли VPN](kak-proverit-vpn.md)
 - [Раздельное туннелирование: банки и российские сайты без VPN](razdelnoe-tunnelirovanie.md)
 - [Сбербанк и другие банки с VPN: что делать](bank-i-vpn.md)
@@ -54,7 +63,12 @@
 - [VPN для Mac: как установить на macOS и MacBook](vpn-mac.md)
 - [VPN для Linux: Ubuntu, Mint, Fedora](vpn-linux.md)
 - [VPN на роутер: как настроить и стоит ли](vpn-na-router.md)
+- [VPN на планшет: iPad и Android](vpn-na-planshet.md)
+- [VPN на телевизор LG, Samsung, Xiaomi, Яндекс ТВ](vpn-smart-tv.md)
 - [VPN на несколько устройств: одна подписка для всех](vpn-neskolko-ustrojstv.md)
+- [Как поделиться VPN с семьёй и друзьями](kak-podelitsya-vpn.md)
+- [Как раздать VPN с телефона или компьютера](kak-razdat-vpn.md)
+- [VPN для игр: когда помогает, а когда мешает](vpn-dlya-igr.md)
 
 ## 📖 Простыми словами
 
@@ -79,12 +93,14 @@
 - [Какой VPN лучше: честный чек-лист выбора](kakoj-vpn-luchshe.md)
 - [Как купить VPN: подписка, оплата и что проверить](kak-kupit-vpn.md)
 - [Безопасный интернет: 10 простых правил](bezopasnyj-internet.md)
+- [Утечка DNS, kill switch и двойной VPN: простыми словами](bezopasnost-vpn-nastrojki.md)
 
 ## 🌍 За границей
 
 - [VPN с российским IP: зачем нужен и как получить](vpn-s-rossijskim-ip.md)
 - [Российские сервисы за границей: маркетплейсы, кино, банки](rossijskie-servisy-za-granicej.md)
 - [Госуслуги и VPN: почему не открываются и что делать](gosuslugi-i-vpn.md)
+- [VPN в поездке: Турция, Египет, ОАЭ, Китай, Таиланд](vpn-v-poezdke.md)
 
 ## Как помочь
 
