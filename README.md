@@ -15,7 +15,13 @@
 - [v2rayNG: как добавить подписку и ключ на Android](v2rayng.md)
 - [NekoBox: как добавить подписку на Android и компьютере](nekobox.md)
 - [Streisand на iPhone: как добавить подписку VPN](streisand.md)
+- [OneXray: настройка VPN на iPhone, Android и компьютере](onexray.md)
+- [FoXray: как добавить подписку VPN на iPhone и Mac](foxray.md)
+- [V2Box: настройка VPN на iPhone, Android и Mac](v2box.md)
+- [Shadowrocket: как добавить подписку VLESS на iPhone](shadowrocket.md)
 - [Как скачать VPN-приложение на iPhone и сменить регион App Store](kak-skachat-vpn-iphone.md)
+- [Amnezia VPN: что это и чем отличается от подписки VLESS](amnezia-vpn.md)
+- [Outline VPN: что это и как работают ключи](outline-vpn.md)
 
 ## 🛠 Если VPN не работает
 
@@ -40,6 +46,8 @@
 - [VPN на телевизор с Android TV](vpn-televizor.md)
 - [VPN для Windows 11 и 10: установка на ПК](vpn-windows-11.md)
 - [VPN для Mac: как установить на macOS и MacBook](vpn-mac.md)
+- [VPN для Linux: Ubuntu, Mint, Fedora](vpn-linux.md)
+- [VPN на роутер: как настроить и стоит ли](vpn-na-router.md)
 - [VPN на несколько устройств: одна подписка для всех](vpn-neskolko-ustrojstv.md)
 
 ## 📖 Простыми словами
@@ -62,6 +70,15 @@
 - [VPN в Telegram-боте: как работает](vpn-v-telegram-bote.md)
 - [Как отменить подписку VPN и отключить автопродление](kak-otmenit-podpisku-vpn.md)
 - [Как подарить VPN родителям или другу](podarit-vpn.md)
+- [Какой VPN лучше: честный чек-лист выбора](kakoj-vpn-luchshe.md)
+- [Как купить VPN: подписка, оплата и что проверить](kak-kupit-vpn.md)
+- [Безопасный интернет: 10 простых правил](bezopasnyj-internet.md)
+
+## 🌍 За границей
+
+- [VPN с российским IP: зачем нужен и как получить](vpn-s-rossijskim-ip.md)
+- [Российские сервисы за границей: маркетплейсы, кино, банки](rossijskie-servisy-za-granicej.md)
+- [Госуслуги и VPN: почему не открываются и что делать](gosuslugi-i-vpn.md)
 
 ## Как помочь
 
