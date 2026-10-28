@@ -46,4 +46,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/podpiska-ne-obnovlyaetsya/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/podpiska-ne-obnovlyaetsya/ · [← Все инструкции](README.md)

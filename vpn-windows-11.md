@@ -60,4 +60,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-windows-11/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-windows-11/ · [← Все инструкции](README.md)

@@ -48,4 +48,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/hiddify-ne-podklyuchaetsya/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/hiddify-ne-podklyuchaetsya/ · [← Все инструкции](README.md)

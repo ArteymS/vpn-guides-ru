@@ -54,4 +54,4 @@ Hiddify — бесплатное приложение с открытым код
 
 
 ---
-Версия на сайте: http://myartvpn.online/happ-na-kompyutere/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/happ-na-kompyutere/ · [← Все инструкции](README.md)

@@ -52,4 +52,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/nekoray-sing-box-clash/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/nekoray-sing-box-clash/ · [← Все инструкции](README.md)

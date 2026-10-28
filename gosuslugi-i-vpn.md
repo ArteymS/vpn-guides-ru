@@ -46,4 +46,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/gosuslugi-i-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/gosuslugi-i-vpn/ · [← Все инструкции](README.md)

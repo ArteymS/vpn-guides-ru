@@ -40,4 +40,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/razdelnoe-tunnelirovanie/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/razdelnoe-tunnelirovanie/ · [← Все инструкции](README.md)

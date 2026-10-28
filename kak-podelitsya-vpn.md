@@ -52,4 +52,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/kak-podelitsya-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/kak-podelitsya-vpn/ · [← Все инструкции](README.md)

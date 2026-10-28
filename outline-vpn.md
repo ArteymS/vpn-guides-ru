@@ -46,4 +46,4 @@ Outline состоит из двух частей: **Outline Manager** — пр�
 
 
 ---
-Версия на сайте: http://myartvpn.online/outline-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/outline-vpn/ · [← Все инструкции](README.md)

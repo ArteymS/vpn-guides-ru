@@ -62,4 +62,4 @@ VPN на роутере удобен тем, что защищает сразу 
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-na-router/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-na-router/ · [← Все инструкции](README.md)

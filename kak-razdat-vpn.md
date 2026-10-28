@@ -51,4 +51,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/kak-razdat-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/kak-razdat-vpn/ · [← Все инструкции](README.md)

@@ -75,4 +75,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/sravnenie-prilozhenij/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/sravnenie-prilozhenij/ · [← Все инструкции](README.md)

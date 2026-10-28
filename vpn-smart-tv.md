@@ -50,4 +50,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-smart-tv/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-smart-tv/ · [← Все инструкции](README.md)

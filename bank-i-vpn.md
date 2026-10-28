@@ -51,4 +51,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/bank-i-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/bank-i-vpn/ · [← Все инструкции](README.md)

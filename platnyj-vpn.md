@@ -45,4 +45,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/platnyj-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/platnyj-vpn/ · [← Все инструкции](README.md)

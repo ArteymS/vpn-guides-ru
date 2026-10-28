@@ -57,4 +57,4 @@ Amnezia VPN — бесплатное приложение с открытым к
 
 
 ---
-Версия на сайте: http://myartvpn.online/amnezia-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/amnezia-vpn/ · [← Все инструкции](README.md)

@@ -57,4 +57,4 @@ v2rayN — бесплатная программа с открытым кодо�
 
 
 ---
-Версия на сайте: http://myartvpn.online/v2rayn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/v2rayn/ · [← Все инструкции](README.md)

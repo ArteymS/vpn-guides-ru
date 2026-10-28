@@ -49,4 +49,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-v-telegram-bote/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-v-telegram-bote/ · [← Все инструкции](README.md)

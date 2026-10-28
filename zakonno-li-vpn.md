@@ -40,4 +40,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/zakonno-li-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/zakonno-li-vpn/ · [← Все инструкции](README.md)

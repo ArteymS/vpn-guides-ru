@@ -45,4 +45,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/kak-nastroit-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/kak-nastroit-vpn/ · [← Все инструкции](README.md)

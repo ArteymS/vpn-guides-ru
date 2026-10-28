@@ -54,4 +54,4 @@ VPN здесь нужен в основном для Wi‑Fi в отелях и 
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-v-poezdke/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-v-poezdke/ · [← Все инструкции](README.md)

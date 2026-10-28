@@ -44,4 +44,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-iphone/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-iphone/ · [← Все инструкции](README.md)

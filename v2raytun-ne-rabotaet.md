@@ -47,4 +47,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/v2raytun-ne-rabotaet/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/v2raytun-ne-rabotaet/ · [← Все инструкции](README.md)

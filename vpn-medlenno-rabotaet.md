@@ -54,4 +54,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-medlenno-rabotaet/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-medlenno-rabotaet/ · [← Все инструкции](README.md)

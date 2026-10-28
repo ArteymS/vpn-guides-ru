@@ -47,4 +47,4 @@ VPN включается в приложении-клиенте одной кн�
 
 
 ---
-Версия на сайте: http://myartvpn.online/kak-vklyuchit-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/kak-vklyuchit-vpn/ · [← Все инструкции](README.md)

@@ -38,4 +38,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-dlya-raboty/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-dlya-raboty/ · [← Все инструкции](README.md)

@@ -35,4 +35,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-televizor/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-televizor/ · [← Все инструкции](README.md)

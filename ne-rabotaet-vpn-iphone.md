@@ -52,4 +52,4 @@ iOS может отключать VPN при экономии заряда ил�
 
 
 ---
-Версия на сайте: http://myartvpn.online/ne-rabotaet-vpn-iphone/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/ne-rabotaet-vpn-iphone/ · [← Все инструкции](README.md)

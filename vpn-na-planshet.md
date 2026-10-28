@@ -55,4 +55,4 @@ Karing или INCY — бот добавляет в них подписку в �
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-na-planshet/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-na-planshet/ · [← Все инструкции](README.md)

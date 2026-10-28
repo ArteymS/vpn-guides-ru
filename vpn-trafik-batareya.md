@@ -51,4 +51,4 @@ VPN не создаёт трафик сам по себе — он переда�
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-trafik-batareya/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-trafik-batareya/ · [← Все инструкции](README.md)

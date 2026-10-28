@@ -108,6 +108,6 @@
 
 ## О проекте
 
-Инструкции подготовлены командой [MyArtVPN](http://myartvpn.online/) — VPN-сервиса в Telegram ([@myartvpn_bot](https://t.me/myartvpn_bot?start=src_gh_guides)). Версии этих статей на сайте: http://myartvpn.online/stati/
+Инструкции подготовлены командой [MyArtVPN](https://myartvpn.online/) — VPN-сервиса в Telegram ([@myartvpn_bot](https://t.me/myartvpn_bot?start=src_gh_guides)). Версии этих статей на сайте: https://myartvpn.online/stati/
 
 Тексты распространяются по лицензии CC BY 4.0: можно копировать и переиспользовать с указанием источника.

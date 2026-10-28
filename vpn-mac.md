@@ -55,4 +55,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-mac/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-mac/ · [← Все инструкции](README.md)

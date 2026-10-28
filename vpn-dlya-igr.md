@@ -56,4 +56,4 @@ VPN добавляет на пути ещё один сервер, поэтом�
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-dlya-igr/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-dlya-igr/ · [← Все инструкции](README.md)

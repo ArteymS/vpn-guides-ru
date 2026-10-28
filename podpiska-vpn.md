@@ -56,4 +56,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/podpiska-vpn/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/podpiska-vpn/ · [← Все инструкции](README.md)

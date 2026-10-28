@@ -50,4 +50,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-s-rossijskim-ip/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-s-rossijskim-ip/ · [← Все инструкции](README.md)

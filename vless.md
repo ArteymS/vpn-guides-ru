@@ -58,4 +58,4 @@ Reality — способ шифрования, при котором подкл�
 
 
 ---
-Версия на сайте: http://myartvpn.online/vless/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vless/ · [← Все инструкции](README.md)

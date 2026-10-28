@@ -51,4 +51,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/rossijskie-servisy-za-granicej/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/rossijskie-servisy-za-granicej/ · [← Все инструкции](README.md)

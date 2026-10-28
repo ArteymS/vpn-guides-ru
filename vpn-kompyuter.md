@@ -41,4 +41,4 @@
 
 
 ---
-Версия на сайте: http://myartvpn.online/vpn-kompyuter/ · [← Все инструкции](README.md)
+Версия на сайте: https://myartvpn.online/vpn-kompyuter/ · [← Все инструкции](README.md)
